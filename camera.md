@@ -1,3 +1,5 @@
+    sudo apt-get install libcblas-dev
+    
     pip3 install --upgrade pip setuptools wheel
     
     pip3 install bottleneck
@@ -16,3 +18,5 @@
     sudo apt install libhdf5-dev libhdf5-103
     
     sudo apt install python3-dev python3-pip python3-numpy
+    
+    
