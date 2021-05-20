@@ -1,3 +1,5 @@
+cap.videocapture(/dev/0)
+    
     sudo apt install libatlas-base-dev liblapacke-dev gfortran
     
     
