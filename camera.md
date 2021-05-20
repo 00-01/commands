@@ -1,3 +1,5 @@
+    pip install --upgrade pip setuptools wheel
+
     sudo apt install cmake build-essential pkg-config git
 
     sudo apt install libjpeg-dev libtiff-dev libjasper-dev libpng-dev libwebp-dev libopenexr-dev
