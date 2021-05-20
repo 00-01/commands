@@ -11,3 +11,13 @@
 
 ### 4. run mongoDB
     mongo
+
+
+
+    sudo apt-get install mongo-tools
+    
+    sudo apt-get install mongodb-clients
+    
+    sudo apt-get install mongodb-server
+    
+    sudo apt-get install mongodb
