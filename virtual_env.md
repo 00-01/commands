@@ -9,5 +9,5 @@
   
 ### deactivate
 '''
-  deactivate
+deactivate
 '''
