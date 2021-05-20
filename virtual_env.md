@@ -1,11 +1,13 @@
-# install venv
+### install venv
   pip3 install virtualenv
 
-# create venv
+### create venv
   virtualenv 'venvname'
 
-# activate
+### activate
   source 'venvname'/bin/activate
   
-# deactivate
+### deactivate
+'''
   deactivate
+'''
