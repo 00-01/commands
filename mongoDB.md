@@ -6,6 +6,12 @@
     sudo systemctl start mongodb
     mongo
     
+## config network
+    sudo nano /etc/mongodb.conf
+bind_ip = 0.0.0.0
+port = 27017
+
+
 
 
 ### Install the MongoDB 4.4 GPG key:
