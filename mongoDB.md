@@ -12,4 +12,4 @@ bind_ip = 0.0.0.0
 port = 27017
 
 ## python pip
-    sudo pip3 install pymongo~=3.11.3
+    sudo pip3 install pymongo~=3.11.4
