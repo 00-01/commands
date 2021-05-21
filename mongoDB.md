@@ -1,3 +1,13 @@
+## mongo v2.4
+    sudo apt update
+    sudo apt upgrade
+    sudo apt install mongodb
+    sudo systemctl enable mongodb
+    sudo systemctl start mongodb
+    mongo
+    
+
+
 ### Install the MongoDB 4.4 GPG key:
     wget -qO - https://www.mongodb.org/static/pgp/server-4.4.asc | sudo apt-key add -
 
@@ -11,31 +21,7 @@
     sudo apt-get install -y mongodb-org
 
 
-
-
-
-
-
-
-
-
-
-### 1. update and upgrade all existing packages by running the command below.
-    sudo apt update
-    sudo apt upgrade
-
-### 2. install MongoDB server from the Raspbian repository.
-    sudo apt install mongodb
-
-### 3. enable and start the MongoDB service.
-    sudo systemctl enable mongodb
-    sudo systemctl start mongodb
-
-### 4. run mongoDB
-    mongo
-
-
-
+## mongo v2.4
     sudo apt-get install mongo-tools
     
     sudo apt-get install mongodb-clients
